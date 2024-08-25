@@ -2,27 +2,27 @@
 .vscode/
 .idea/
 
-# TP1
-FirstProgram
-SecondProgram
-Analysis
+# tp1
+first_program
+second_program
+analysis
 
-# TP2
+# tp2
 test_matrix_power
 test_matrix_random
 
-# TP3
+# tp3
 test_permutation
 test_sparse
 
-# TP4
+# tp4
 TestRandomWalk
 ProfileContainers
 chocolatine.cpp
 Analysis
 
-# TP5
+# tp5
 test_monte_carlo
 
-# TP6
+# tp6
 test_polynome

@@ -1,53 +1,30 @@
-# Travaux Pratiques de Programmation en C++
+# C++ Programming Practical Work
 
-Bienvenue dans le dépôt des Travaux Pratiques de l'UE `MU4MA056` [Programmation en C++](https://moodle-sciences-23.sorbonne-universite.fr/course/view.php?id=3911). Ce dépôt contient l'ensemble des TP nécessaires pour approfondir vos compétences en programmation C++.
+Welcome to the repository for the practical work of the course MU4MA056 C++ Programming.
+This repository contains all the practical assignments required to deepen your C++ programming skills.
 
-## Mise à jour régulière
+## Contents
 
-Ce dépôt sera régulièrement mis à jour pour inclure de nouveaux TP, des corrections et des améliorations. Assurez-vous de récupérer les dernières modifications afin de bénéficier des améliorations apportées.
+- **tp1:** First Programs, Input/Output, Statistics
+- **tp2:** An Example of a Linear Algebra Library: Eigen 
+- **tp3:** Classes and Permutations
+- **tp4:** An Exploration of the Standard Library
+- **tp5:** Templates and Monte Carlo Methods
+- **tp6:** Templates and Polynomials
 
-## Comment récupérer ce dépôt
+## Getting Started
 
-### Utilisateurs Git
+To get started with these practical works, clone this repository to your local machine using:
 
-Si vous êtes familier avec Git, vous pouvez cloner ce dépôt en utilisant la commande suivante :
-
-```bash
-git clone https://github.com/RyanTmi/M1-TP_Cpp.git
+```shell
+git clone https://github.com/RyanTmi/M1-TP_CPP.git
 ```
 
-### Utilisateurs non-Git
+## Reporting Issues or Asking Questions
 
-Si vous n’êtes pas familier avec Git, vous pouvez télécharger le dépôt sous forme de fichier zip en cliquant sur le bouton `Code` en haut de cette page, puis en choisissant `Download ZIP`. Une fois le fichier ZIP téléchargé, extrayez son contenu sur votre ordinateur.
+If you find errors in the assignments or have any questions, feel free to open an issue in this repository or contact me.
+I am open to contributions and will be happy to help resolve any issues you encounter.
 
-## Travaux Pratiques disponibles
+## Acknowledgements
 
-### TP1 : Premiers programmes, entrées/sorties, statistiques
-
-```sh
-cd TP1/FirstPrograms
-make
-
-cd TP1/Analyses
-make
-
-make clean
-```
-
-### TP2 : Un exemple de bibliothèque d’algèbre linéaire : Eigen
-
-```sh
-cd TP2
-make MatrixPower
-make MatrixRandom
-make clean
-```
-
-### TP3 : Classes et permutations
-
-
-## Signaler des erreurs ou poser des questions
-
-Si vous trouvez des erreurs dans les TP ou si vous avez des questions, n’hésitez pas à ouvrir une issue dans ce dépôt, ou à me contacter. Je suis ouvert aux contributions et je serai ravi de vous aider à résoudre tout problème rencontré.
-
-Merci de contribuer à l’amélioration de ce dépôt !
+Special thanks to [Damien Simon](https://www.normalesup.org/~dsimon/) and [Daphné Giorgi](https://perso.lpsm.paris/~giorgi/) for providing the materials and resources for this course.
